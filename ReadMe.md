@@ -1,4 +1,4 @@
-## How to use our Notebooks
+## How to use the Notebooks in this repository
 
 #### 1. Install the requirements.txt
 
