@@ -54,5 +54,5 @@ This Project has secured **1st Place 🥇** in the Code-2-ML Hack-a-thon.
 > This [repo](https://github.com/Avhijit-codeboy/Code-2-ML-stage-3) contains other participant's submissions for the Hack-a-thon.
 
 
-<img src="data/1615360662934.jpeg" alt="drawing" width="50%"/>
+<img src="cert.png" alt="cert" width="80%"/>
 
